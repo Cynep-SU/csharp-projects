@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.deps.json
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.runtimeconfig.json
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.runtimeconfig.dev.json
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.dll
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ref/ConsoleApp2.dll
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/bin/Debug/net5.0/ConsoleApp2.pdb
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.AssemblyInfo.cs
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.dll
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ref/ConsoleApp2.dll
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.pdb
+/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/obj/Debug/net5.0/ConsoleApp2.genruntimeconfig.cache

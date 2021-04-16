@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF0G09aryZ4BscEotrKYxEDvOW0quXsGJPZEi3RL40iQqiY7B+YUQD2BQ3kTA0Vkm7uCd9bUuhNrfWqb0K6clw==",
+  "success": true,
+  "projectFilePath": "/home/pankov/RiderProjects/Marat_Lox/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/home/pankov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
