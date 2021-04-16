@@ -11,29 +11,21 @@ namespace Marat_Lox
             double b = Convert.ToDouble(Console.ReadLine());
             double c = Convert.ToDouble(Console.ReadLine());
             if (a > b)
-            {
                 if (a > c)
-
-                    Console.WriteLine("" + a + " " + c + " " + b);
-
+                    if (c > b)
+                        Console.WriteLine("" + a + " " + c + " " + b);
+                    else
+                        Console.WriteLine("" + a + " " + b + " " + c);
                 else
-
                     Console.WriteLine("" + c + " " + a + " " + b);
-
-            }else if (b > c)
-            {
+            else if (b > c)
                 if (c > a)
-
                     Console.WriteLine("" + b + " " + c + " " + a);
-
                 else
-
                     Console.WriteLine("" + b + " " + a + " " + c);
-                
-            }else
+            else
                 Console.WriteLine("" + c + " " + b + " " + a);
-            
-
+            Console.ReadKey();
         }
     }
 }
