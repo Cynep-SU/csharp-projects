@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.AssemblyInfo.cs
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox.deps.json
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox.runtimeconfig.json
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox.runtimeconfig.dev.json
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox.dll
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/ref/Marat_Lox.dll
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/bin/Debug/net5.0/Marat_Lox.pdb
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.dll
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/ref/Marat_Lox.dll
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.pdb
+/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/obj/Debug/net5.0/Marat_Lox.genruntimeconfig.cache
