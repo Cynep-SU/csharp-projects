@@ -7,35 +7,27 @@ namespace ages
         static void Main(string[] args)
         {
             string s = Console.ReadLine();
-            byte first_number;
-            byte second_number;
+            byte firstNumber = 0;
+            byte secondNumber;
             if (s.Length == 1)
+                secondNumber = Convert.ToByte(s[0].ToString());
+            else
             {
-                first_number = 0;
-                second_number = Convert.ToByte(s[0].ToString());
+                firstNumber = Convert.ToByte(s[0].ToString());
+                secondNumber = Convert.ToByte(s[1].ToString());
             }
-            else{
-                first_number = Convert.ToByte(s[0].ToString());
-                second_number = Convert.ToByte(s[1].ToString());
-            }
-            switch (second_number)
+            switch (secondNumber)
             {
                 case 1:
-                    if (first_number != 1)
-                        Console.WriteLine("{0} год", s);
-                    else
-                        Console.WriteLine("{0} лет", s);
+                    Console.WriteLine(firstNumber != 1 ? "Вам {0} год." : "Вам {0} лет.", s);
                     break;
                 case 2:
                 case 3:
                 case 4:
-                    if (first_number != 1)
-                        Console.WriteLine("{0} года", s);
-                    else
-                        Console.WriteLine("{0} лет", s);
+                    Console.WriteLine(firstNumber != 1 ? "Вам {0} года." : "Вам {0} лет.", s);
                     break;
                 default:
-                    Console.WriteLine("{0} лет", s);
+                    Console.WriteLine("Вам {0} лет.", s);
                     break;
             }
         }

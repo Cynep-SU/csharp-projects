@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages.deps.json
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages.runtimeconfig.json
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages.runtimeconfig.dev.json
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages.dll
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ref/ages.dll
+/home/pankov/RiderProjects/i-love-beer/ages/bin/Debug/net5.0/ages.pdb
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.AssemblyInfo.cs
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.dll
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ref/ages.dll
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.pdb
+/home/pankov/RiderProjects/i-love-beer/ages/obj/Debug/net5.0/ages.genruntimeconfig.cache
