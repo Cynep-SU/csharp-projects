@@ -34,12 +34,7 @@ namespace ages
                     else
                         Console.WriteLine("{0} лет", s);
                     break;
-                case 5:
-                case 6:
-                case 7:
-                case 8:
-                case 9:
-                case 0:
+                default:
                     Console.WriteLine("{0} лет", s);
                     break;
             }
