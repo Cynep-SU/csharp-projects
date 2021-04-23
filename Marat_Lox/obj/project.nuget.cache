@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NhrdsPwGclSoFOtzCaj9stlQFBbs4M1mjjg6GqXKfL6HOWpA9u2Oo6ucM3rYJOTkrfL02oORPH7JWoKX+i9Q5Q==",
+  "dgSpecHash": "Ia3Ele47BDTPjwYy1bU2KqGBr5kdRY0YeEVzzZqi6GUT/30Gb3DgmLbQG+KXV3r5LkXWGtdb31wRS1jF/fH/Sw==",
   "success": true,
-  "projectFilePath": "/home/pankov/RiderProjects/Marat_Lox/Marat_Lox/Marat_Lox.csproj",
-  "expectedPackageFiles": [
-    "/home/pankov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/pankov/RiderProjects/i-love-beer/Marat_Lox/Marat_Lox.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

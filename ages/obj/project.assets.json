@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp2/ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp2/ConsoleApp2.csproj",
+      "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj",
+      "projectName": "ages",
+      "projectPath": "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj",
       "packagesPath": "/home/pankov/.nuget/packages/",
-      "outputPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp2/obj/",
+      "outputPath": "/home/pankov/RiderProjects/i-love-beer/ages/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pankov/.nuget/NuGet/NuGet.Config"

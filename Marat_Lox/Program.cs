@@ -13,18 +13,18 @@ namespace Marat_Lox
             if (a > b)
                 if (a > c)
                     if (c > b)
-                        Console.WriteLine("" + a + " " + c + " " + b);
+                        Console.WriteLine(a + " " + c + " " + b);
                     else
-                        Console.WriteLine("" + a + " " + b + " " + c);
+                        Console.WriteLine(a + " " + b + " " + c);
                 else
-                    Console.WriteLine("" + c + " " + a + " " + b);
+                    Console.WriteLine(c + " " + a + " " + b);
             else if (b > c)
                 if (c > a)
-                    Console.WriteLine("" + b + " " + c + " " + a);
+                    Console.WriteLine(b + " " + c + " " + a);
                 else
-                    Console.WriteLine("" + b + " " + a + " " + c);
+                    Console.WriteLine(b + " " + a + " " + c);
             else
-                Console.WriteLine("" + c + " " + b + " " + a);
+                Console.WriteLine(c + " " + b + " " + a);
             Console.ReadKey();
         }
     }
