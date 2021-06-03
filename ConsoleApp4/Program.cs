@@ -15,7 +15,7 @@ namespace ConsoleApp4
                 n = Int32.Parse(Console.ReadLine()!);
                 if (n % x == 0)
                     sum += n;
-            } while (n > 0);
+            } while (n >= 0);
             Console.WriteLine($"Sum of multiples of x = {sum}");
         }
     }
