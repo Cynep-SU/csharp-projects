@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример.deps.json
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример.runtimeconfig.json
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример.runtimeconfig.dev.json
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример.dll
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/ref/это-какой-пример.dll
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/bin/Debug/net5.0/это-какой-пример.pdb
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.AssemblyInfo.cs
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.dll
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/ref/это-какой-пример.dll
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.pdb
+/home/pankov/RiderProjects/i-love-beer/это-какой-пример/obj/Debug/net5.0/это-какой-пример.genruntimeconfig.cache
