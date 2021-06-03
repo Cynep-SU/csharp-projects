@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия.deps.json
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия.runtimeconfig.json
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия.runtimeconfig.dev.json
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/ref/Мне лень придумывать названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/bin/Debug/net5.0/Мне лень придумывать названия.pdb
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.AssemblyInfo.cs
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/ref/Мне лень придумывать названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.pdb
+/home/pankov/RiderProjects/i-love-beer/Мне лень придумывать названия/obj/Debug/net5.0/Мне лень придумывать названия.genruntimeconfig.cache

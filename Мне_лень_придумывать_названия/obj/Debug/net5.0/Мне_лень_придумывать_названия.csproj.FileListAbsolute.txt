@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия.deps.json
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия.runtimeconfig.json
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия.runtimeconfig.dev.json
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/ref/Мне_лень_придумывать_названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/bin/Debug/net5.0/Мне_лень_придумывать_названия.pdb
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.AssemblyInfo.cs
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/ref/Мне_лень_придумывать_названия.dll
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.pdb
+/home/pankov/RiderProjects/i-love-beer/Мне_лень_придумывать_названия/obj/Debug/net5.0/Мне_лень_придумывать_названия.genruntimeconfig.cache
