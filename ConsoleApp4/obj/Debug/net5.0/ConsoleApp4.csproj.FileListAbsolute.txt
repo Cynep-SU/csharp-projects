@@ -1,0 +1,16 @@
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.deps.json
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.runtimeconfig.json
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.runtimeconfig.dev.json
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.dll
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ref/ConsoleApp4.dll
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/bin/Debug/net5.0/ConsoleApp4.pdb
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.csprojAssemblyReference.cache
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.AssemblyInfoInputs.cache
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.AssemblyInfo.cs
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.csproj.CoreCompileInputs.cache
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.dll
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ref/ConsoleApp4.dll
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.pdb
+/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/Debug/net5.0/ConsoleApp4.genruntimeconfig.cache

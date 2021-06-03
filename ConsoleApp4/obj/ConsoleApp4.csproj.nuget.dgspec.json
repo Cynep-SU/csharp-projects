@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj": {}
+    "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj": {}
   },
   "projects": {
-    "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj": {
+    "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj",
-        "projectName": "ages",
-        "projectPath": "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj",
+        "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj",
+        "projectName": "ConsoleApp4",
+        "projectPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj",
         "packagesPath": "/home/pankov/.nuget/packages/",
-        "outputPath": "/home/pankov/RiderProjects/i-love-beer/ages/obj/",
+        "outputPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pankov/.nuget/NuGet/NuGet.Config"

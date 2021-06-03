@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/Marat_Lox/Marat_Lox.csproj",
-      "projectName": "Marat_Lox",
-      "projectPath": "/home/pankov/RiderProjects/i-love-beer/Marat_Lox/Marat_Lox.csproj",
+      "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj",
+      "projectName": "ConsoleApp4",
+      "projectPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/ConsoleApp4.csproj",
       "packagesPath": "/home/pankov/.nuget/packages/",
-      "outputPath": "/home/pankov/RiderProjects/i-love-beer/Marat_Lox/obj/",
+      "outputPath": "/home/pankov/RiderProjects/i-love-beer/ConsoleApp4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pankov/.nuget/NuGet/NuGet.Config"
