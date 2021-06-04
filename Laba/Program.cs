@@ -7,7 +7,6 @@ namespace Laba
         
         static void Main(string[] args)
         {
-            float y;
             Console.WriteLine("Введите C");
             float c = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("Введите D");
@@ -27,15 +26,15 @@ namespace Laba
 
     public class Cycles
     {
-        private float c, x1, y, d, x2, x3;
+        private float c, x1, _y, d, x2, x3;
         
-        public Cycles(float c_, float d_, float x1_, float x2_, float x3_)
+        public Cycles(float c, float d, float x1, float x2, float x3)
         {
-            c = c_;
-            d = d_;
-            x1 = x1_;
-            x2 = x2_;
-            x3 = x3_;
+            this.c = c;
+            this.d = d;
+            this.x1 = x1;
+            this.x2 = x2;
+            this.x3 = x3;
         }
         
         public float F(float x)
@@ -49,10 +48,10 @@ namespace Laba
             int numD = 0;
             for (float x = x1; x <= x2; x += x3)
             {
-                y = F(x);
-                if (y < d)
+                _y = F(x);
+                if (_y < d)
                     numD += 1;
-                if (y > c)
+                if (_y > c)
                     numC += 1;
             }
 
@@ -66,10 +65,10 @@ namespace Laba
             float x = x1;
             while (x <= x2)
             {
-                y = F(x);
-                if (y < d)
+                _y = F(x);
+                if (_y < d)
                     numD += 1;
-                if (y > c)
+                if (_y > c)
                     numC += 1;
                 x += x3;
             }
@@ -82,13 +81,13 @@ namespace Laba
             int numD = 0;
             float x = x1;
             if (x1 > x2)
-                return "Error";
+                return "Error, такого не должно быть.";
             do
             {
-                y = F(x);
-                if (y < d)
+                _y = F(x);
+                if (_y < d)
                     numD += 1;
-                if (y > c)
+                if (_y > c)
                     numC += 1;
                 x += x3;
             } while (x <= x2);
