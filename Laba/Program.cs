@@ -37,9 +37,9 @@ namespace Laba
             this.x3 = x3;
         }
         
-        public float F(float x)
+        private float F(float x)
         {
-            return x;
+            return (float) ((Math.Pow(x, x) - 10f * Math.Sin(x)) * x);
         }
 
         public string for_()

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/pankov/RiderProjects/i-love-beer/Laba/Laba.csproj": {}
+    "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\Laba\\Laba.csproj": {}
   },
   "projects": {
-    "/home/pankov/RiderProjects/i-love-beer/Laba/Laba.csproj": {
+    "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\Laba\\Laba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pankov/RiderProjects/i-love-beer/Laba/Laba.csproj",
+        "projectUniqueName": "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\Laba\\Laba.csproj",
         "projectName": "Laba",
-        "projectPath": "/home/pankov/RiderProjects/i-love-beer/Laba/Laba.csproj",
-        "packagesPath": "/home/pankov/.nuget/packages/",
-        "outputPath": "/home/pankov/RiderProjects/i-love-beer/Laba/obj/",
+        "projectPath": "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\Laba\\Laba.csproj",
+        "packagesPath": "C:\\Users\\Super_SU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\Laba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pankov/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Super_SU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x4V8EzpTs9+A0doovBYtfsQf2kj+vQVKJeO0TifWIU+R19yzel4AsR5mrOLwHNfq/nvuVlLJ9demu/bH/06D/A==",
+  "dgSpecHash": "nm7ojb+rM5SBLnhpAHgms6wNKZp2GHxwXk5piYUlU90PBnhhHac24R85AnOSXcbDn+bLnfC0RKZrgdePpP0PeQ==",
   "success": true,
-  "projectFilePath": "/home/pankov/RiderProjects/i-love-beer/ages/ages.csproj",
+  "projectFilePath": "C:\\Users\\Super_SU\\RiderProjects\\csharp-projects\\ages\\ages.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
