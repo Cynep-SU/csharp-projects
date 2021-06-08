@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "это-какой-прим�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba", "Laba\Laba.csproj", "{93E59962-5F01-4916-B4F4-22E508336F1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLabaKostya", "AppLabaKostya\AppLabaKostya.csproj", "{B0D64DF3-9240-4E7C-946B-C02038783EA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{93E59962-5F01-4916-B4F4-22E508336F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93E59962-5F01-4916-B4F4-22E508336F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93E59962-5F01-4916-B4F4-22E508336F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D64DF3-9240-4E7C-946B-C02038783EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D64DF3-9240-4E7C-946B-C02038783EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D64DF3-9240-4E7C-946B-C02038783EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D64DF3-9240-4E7C-946B-C02038783EA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
