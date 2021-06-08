@@ -50,12 +50,12 @@ namespace Laba
             {
                 _y = F(x);
                 if (_y < d)
-                    numD += 1;
+                    numD++;
                 if (_y > c)
-                    numC += 1;
+                    numC++;
             }
 
-            return $"{numC}, {numD}";
+            return $"Количество больше С = {numC}, меньше D = {numD}";
         }
 
         public string while_()
@@ -67,12 +67,12 @@ namespace Laba
             {
                 _y = F(x);
                 if (_y < d)
-                    numD += 1;
+                    numD++;
                 if (_y > c)
-                    numC += 1;
+                    numC++;
                 x += x3;
             }
-            return $"{numC}, {numD}";
+            return $"Количество больше С = {numC}, меньше D = {numD}";
         }
         
         public string do_while_()
@@ -86,12 +86,12 @@ namespace Laba
             {
                 _y = F(x);
                 if (_y < d)
-                    numD += 1;
+                    numD++;
                 if (_y > c)
-                    numC += 1;
+                    numC++;
                 x += x3;
             } while (x <= x2);
-            return $"{numC}, {numD}";
+            return $"Количество больше С = {numC}, меньше D = {numD}";
         }
     }
 }
